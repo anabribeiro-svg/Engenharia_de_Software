@@ -1,1 +1,2 @@
 # Engenharia_de_Software
+Na matéria de Engenharia de Software, estudamos o histórico e a evolução da área, seus conceitos e objetivos, os principais critérios de qualidade de software e a definição de sistemas, incluindo seus elementos e suas funções. Esses conteúdos ajudaram a compreender a importância da Engenharia de Software no desenvolvimento de sistemas eficientes, organizados e de qualidade.
